@@ -7,8 +7,14 @@ img {
   max-width: 100%;
 }
 
-.center {
-  width: 50%;
-}
 
 /* Code Under This Line */
+
+.foo {
+  margin: 0px 0px 20px 0px;
+}
+
+.center {
+  width: 50%;
+  margin: 0px 25% 0px 25%;
+}
