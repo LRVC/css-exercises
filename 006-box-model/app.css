@@ -8,7 +8,31 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+.box-model {
+  padding-right: 25%;
+  padding-left: 25%;
+  width: 50%;
+}
 
+.a {
+  background-color: #FFED5D;
+  padding: 3%;
+}
+
+.b {
+  background-color: #FF7050;
+  padding: 3%;
+}
+
+.c {
+  background-color: #222;
+  padding: 3%;
+}
+
+.d {
+  background-color: #7BBADE;
+  padding: 4%;
+}
 /*
   Colors:
   #FFED5D
