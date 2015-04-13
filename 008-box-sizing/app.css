@@ -24,3 +24,13 @@ div {
 }
 
 /* Your Code Goes Under This Line */
+
+section {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+div {
+  padding-left: 0px;
+  padding-right: 0px;
+}
