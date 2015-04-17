@@ -8,12 +8,15 @@ img {
 }
 
 .services {
+  width: auto;
   background: grey;
   overflow: hidden;
+  clear: both;
 }
 
 .service {
-  width: 50%;
+  clear: left;
+  width: auto;
   height: 100px;
   float: left;
 }
@@ -28,8 +31,10 @@ img {
 }
 
 .post {
+  width: auto;
   padding-bottom: 40px;
   font-size: 1.2rem;
+  float: right;
 }
 
 .post-title {
